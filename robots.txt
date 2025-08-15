@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://minimallivingshop.com/sitemap.xml
